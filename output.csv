@@ -1,0 +1,292 @@
+﻿CompanyName,Ticker_x,Ticker_y,Currency,Exchange,ExchangeShort,Timezone,Similarity Score
+3m co,,MMM.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+3m co,,MMM.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
+3m co,,MMM.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
+3m co,,MMM.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+abb ltd,,ABB,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+abb ltd,,ABBN.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+abb ltd,,ABJA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+abb ltd,,ABLZF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+abbott laboratories,,ABL.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+abbott laboratories,,ABT,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+abbott laboratories,,ABT.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+abbott laboratories,,ABT.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
+abbott laboratories,,ABL.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
+advantest corp,,VANA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+advantest corp,,VAN.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+adyen nv,,ADYEN.AS,EUR,Euronext Amsterdam,AEX,Europe/Amsterdam,0.0
+adyen nv,,ADYEN.PA,EUR,Euronext Paris,PAR,Europe/Paris,0.0
+aecom,,E6Z.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+aecom,,ACM,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+aes corp,,AES.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+allstate corp,,ALS.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+ameren corporation,,AEE,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+american tower corp,,A0T.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+apa group,,PJZ.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+apa group,,APA.AX,AUD,Australian Securities Exchange,ASX,Australia/Sydney,0.0
+apa group,,APAJF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+aptiv plc,,D7A.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+aptiv plc,,APTV,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+aramark,,0AK.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+aramark,,ARMK,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+asahi kasei corp,,ASAA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+avery dennison corp,,AV3.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+axa,,CSNV.PA,EUR,Euronext Paris,PAR,Europe/Paris,0.0
+azbil corp,,YMK.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+bank of america corp,,BAC.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+bank of america corp,,NCB.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+barrick gold corp,,ABR.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+barrick gold corp,,ABX.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
+barrick gold corp,,ABX.TO,CAD,Toronto Stock Exchange,TSX,America/Toronto,0.0
+barrick gold corp,,ABXN.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+barrick gold corp,,ABR.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
+bio-techne corp,,TE1.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+boeing co,,BA.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+boeing co,,BOE.L,USD,London Stock Exchange,LSE,Europe/London,0.0
+boeing co,,BCO.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+boeing co,,BA.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
+bollore,,BOIVF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+bridgestone corp,,BGT.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+bristol-myers squibb co,,BRM.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
+bristol-myers squibb co,,BRM.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+bristol-myers squibb co,,BMY.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+bureau veritas sa,,BVRDF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+bureau veritas sa,,BVI.PA,EUR,Euronext Paris,PAR,Europe/Paris,0.0
+bureau veritas sa,,4BV.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+camden property trust,,CAL.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+camden property trust,,CPT,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+cameco corp,,CJ6.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+cameco corp,,CCO.TO,CAD,Toronto Stock Exchange,TSX,America/Toronto,0.0
+canon inc,,CNN1.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+canon inc,,CNNA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+canon inc,,CAJN.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+centene corp,,QEN.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+clorox co,,CXX.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+conocophillips,,COP,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+conocophillips,,COP.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+conocophillips,,YCP.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
+conocophillips,,YCP.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+conocophillips,,COP.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
+denso corp,,DNO.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+deutsche boerse,,DB1.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
+deutsche post,,DPW.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
+devon energy corp,,DVN.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+devon energy corp,,DY6.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+dexus,,DXSPF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+dover corp,,DOV.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+duke energy corp,,D2MN.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+edison international,,EIX,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+edison international,,EIX.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+equity residential,,EQR,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+equity residential,,EQR.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+eversource energy,,NWJ.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+eversource energy,,ES,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+fifth third bancorp,,FITBI,USD,NASDAQ Stock Exchange,NASDAQ,America/New_York,0.0
+fifth third bancorp,,FITBP,USD,NASDAQ Stock Exchange,NASDAQ,America/New_York,0.0
+fifth third bancorp,,FITB,USD,NASDAQ Stock Exchange,NASDAQ,America/New_York,0.0
+fifth third bancorp,,FITBO,USD,NASDAQ Stock Exchange,NASDAQ,America/New_York,0.0
+first republic bank,,81R.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+first republic bank,,FRC.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+first republic bank,,FRC,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+fmc corp,,FMQ.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+gecina,,GECFF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+goodman group,,MY4.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+goodman group,,GMG.AX,AUD,Australian Securities Exchange,ASX,Australia/Sydney,0.0
+goodman group,,GMGSF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+gpt group,,46T.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+gpt group,,GPT.AX,AUD,Australian Securities Exchange,ASX,Australia/Sydney,0.0
+gpt group,,GPTGF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+hang seng bank,,HSB.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+hang seng bank,,0011.HK,HKD,Hong Kong Stock Exchange,HKEX,Asia/Hong_Kong,0.0
+heico corp,,HC1.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+horizon therapeutics plc,,HPR.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+hormel foods corp,,HO7.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+hoshizaki corp,,HS0.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+inpex corp,,IPXHF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+inpex corp,,I8U.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+itochu corp,,IOC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+johnson & johnson,,JNJ,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+johnson & johnson,,JNJ.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+johnson & johnson,,JNJ.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
+johnson & johnson,,JNJ.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+jsr corp,,JSCPF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+jsr corp,,JYR.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+kajima corp,,KAJ.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+kajima corp,,KAJMF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+kao corp,,KAO.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+kao corp,,KAOCF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+keio corp,,K22.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+kering,,KER.PA,EUR,Euronext Paris,PAR,Europe/Paris,0.0
+kering,,KER.MI,EUR,Milan Stock Exchange,MIL,Europe/Rome,0.0
+kering,,KERN.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+kering,,PPX.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+keycorp,,KEY.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+keycorp,,KEY,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+kimco realty corp,,KIC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+kose corporation,,4922.T,JPY,Tokyo Stock Exchange,TYO,Asia/Tokyo,0.0
+kraft heinz co,,KHC.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
+kraft heinz co,,KHNZ.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
+kraft heinz co,,KHC.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+kraft heinz co,,KHNZ.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+kroger co,,KOG.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+kubota corp,,KUO1.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+kubota corp,,KUOA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+kyocera corp,,KYR.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+kyocera corp,,KYRA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+lendlease group,,LLESF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+lendlease group,,LLC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+lendlease group,,LLESY,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+lendlease group,,LLC.AX,AUD,Australian Securities Exchange,ASX,Australia/Sydney,0.0
+marubeni corp,,MARA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+masco corp,,MSQ.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+masco corp,,MAS.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+mazda motor corp,,MZA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+mcdonald's corp,,MCD.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+mcdonald's corp,,MCD.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
+mcdonald's corp,,MDO.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+medtronic plc,,MDT,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+medtronic plc,,2M6.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+medtronic plc,,MDTN.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+medtronic plc,,2M6.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
+mirvac group,,MRVGF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+mirvac group,,MJB.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+mirvac group,,MGR.AX,AUD,Australian Securities Exchange,ASX,Australia/Sydney,0.0
+mitsubishi corp,,MBI.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+moncler spa,,MONC.MI,EUR,Milan Stock Exchange,MIL,Europe/Rome,0.0
+moncler spa,,MOV.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+morgan stanley,,DWD.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
+morgan stanley,,MSBR34.SA,BRL,Sao Paolo Stock Exchange,SAO,America/Sao_Paulo,0.0
+morgan stanley,,MS,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+morgan stanley,,MS.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+morgan stanley,,MS.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
+morgan stanley,,DWD.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+national bank of canada,,NBC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+national bank of canada,,NA.TO,CAD,Toronto Stock Exchange,TSX,America/Toronto,0.0
+national bank of canada,,NTIOF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+nec corp,,NEC1.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+nippon steel corp,,NISTF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+nippon steel corp,,NPS.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+ntt data corp,,NT5.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+obayashi corp,,OBYCF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+obayashi corp,,OBA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+oci nv,,OCI.AS,EUR,Euronext Amsterdam,AEX,Europe/Amsterdam,0.0
+oci nv,,OCI.PA,EUR,Euronext Paris,PAR,Europe/Paris,0.0
+oci nv,,OIC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+oji holdings corp,,OJI.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+olympus corp,,OCPNF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+olympus corp,,OLY1.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+omv ag,,OMV.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+omv ag,,OMV.VI,EUR,Vienna Stock Exchange,VSE,Europe/Vienna,0.0
+omv ag,,OMV.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
+omv ag,,OMV.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
+on semiconductor corp,,XS4.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+open text corp,,OTEX.TO,CAD,Toronto Stock Exchange,TSX,America/Toronto,0.0
+open text corp,,OTX.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+owens corning,,O5Q.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+owens corning,,OC,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+partners group holding,,PGHN.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
+partners group holding,,P2H.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+paylocity holding corp,,0P7.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+pentair plc,,PNT.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+pentair plc,,PNR,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+phillips 66,,R66.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+phillips 66,,PSX,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+phoenix group holdings,,PHNX.L,GBX,London Stock Exchange,LSE,Europe/London,0.0
+ppl corp,,PP9.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+procter & gamble co,,PRG.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+procter & gamble co,,PG.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
+procter & gamble co,,PG.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+procter & gamble co,,PRG.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
+progressive corp,,PGV.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+public storage,,PUP.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+public storage,,PSA,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+puma,,PUM.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
+randstad nv,,RANJY,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+randstad nv,,RAND.AS,EUR,Euronext Amsterdam,AEX,Europe/Amsterdam,0.0
+randstad nv,,RAND.PA,EUR,Euronext Paris,PAR,Europe/Paris,0.0
+randstad nv,,RSH.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+randstad nv,,RANJF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+randstad nv,,RANDN.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+realty income corp,,RY6.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+regency centers corp,,RRC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+remy cointreau,,RCO.PA,EUR,Euronext Paris,PAR,Europe/Paris,0.0
+remy cointreau,,RMC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+rockwell automation,,RWL.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+royal bank of canada,,RYN.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+royal bank of canada,,RY.TO,CAD,Toronto Stock Exchange,TSX,America/Toronto,0.0
+royal bank of canada,,RYC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+royal bank of canada,,RY,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+sanofi,,GCVRZ,USD,NASDAQ Stock Exchange,NASDAQ,America/New_York,0.0
+sanofi,,SNY,USD,NASDAQ Stock Exchange,NASDAQ,America/New_York,0.0
+sanofi,,SNYNF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+scentre group,,SCG.AX,AUD,Australian Securities Exchange,ASX,Australia/Sydney,0.0
+scentre group,,STGPF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+schneider electric,,SUNV.PA,EUR,Euronext Paris,PAR,Europe/Paris,0.0
+scsk corp,,QSU.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+sealed air corp,,SDA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+seiko epson corporation,,6724.T,JPY,Tokyo Stock Exchange,TYO,Asia/Tokyo,0.0
+seiko epson corporation,,SEKEF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+seiko epson corporation,,SEKEY,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+seiko epson corporation,,SE7.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+sempra energy,,SE4.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+sempra energy,,SRE,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+sempra energy,,SRE.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+sherwin-williams co,,SHW.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+sherwin-williams co,,SJ3.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+signature bank,,SBNY,USD,NASDAQ Stock Exchange,NASDAQ,America/New_York,0.0
+signature bank,,TQJ.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+smc corp,,QMC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+southwest airlines co,,SWN.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+southwest airlines co,,LUV.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+state street corp,,STT.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+state street corp,,ZYA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+stockland,,STKAF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+subaru corporation,,7270.T,JPY,Tokyo Stock Exchange,TYO,Asia/Tokyo,0.0
+subaru corporation,,FUJHY,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+subaru corporation,,FUJHF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+sumitomo corp,,SUMA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+suzuki motor corp,,SUK.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+svb financial group,,SIVB,USD,NASDAQ Stock Exchange,NASDAQ,America/New_York,0.0
+svb financial group,,SV4.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+synchrony financial,,SYF,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+sysmex corp,,0YX.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+taisei corp,,TKK1.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+taisei corp,,TISCF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+targa resources corp,,TAR.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+tc energy corporation,,TRP,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+tdk corp,,TDK.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+terumo corp,,TUO.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+thomson reuters corp,,TRI.TO,CAD,Toronto Stock Exchange,TSX,America/Toronto,0.0
+tokyu corp,,01T.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+toro co,,TO2.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+toronto-dominion bank,,TD.TO,CAD,Toronto Stock Exchange,TSX,America/Toronto,0.0
+toronto-dominion bank,,TDB.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+toshiba corp,,TSE1.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+tourmaline oil corp,,TOU.TO,CAD,Toronto Stock Exchange,TSX,America/Toronto,0.0
+tourmaline oil corp,,08T.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+toyota motor corp,,TMN.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+toyota motor corp,,TOMA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+toyota motor corp,,TYT.L,JPY,London Stock Exchange,LSE,Europe/London,0.0
+toyota motor corp,,TOM.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+transunion,,1TU.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+transunion,,TRU,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+transurban group,,TCL.AX,AUD,Australian Securities Exchange,ASX,Australia/Sydney,0.0
+transurban group,,TU9.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+transurban group,,TRAUF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+ugi corp,,3U6.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+vicinity centres,,VCX.AX,AUD,Australian Securities Exchange,ASX,Australia/Sydney,0.0
+vicinity centres,,C98.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+wells fargo & co,,WFC.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
+wells fargo & co,,NWT.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+wells fargo & co,,WFC.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
+wells fargo & co,,NWT.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
+welltower inc,,HCW.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+wendel,,WNDLF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+westrock company,,WRK,USD,New York Stock Exchange,NYSE,America/New_York,0.0
+weyerhaeuser co,,WHC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+wolters kluwer,,WKL.AS,EUR,Euronext Amsterdam,AEX,Europe/Amsterdam,0.0
+wolters kluwer,,WOLTF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+wolters kluwer,,WOSB.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+yamaha corp,,YHA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+yaskawa electric corp,,YEC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
+yaskawa electric corp,,YASKF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
