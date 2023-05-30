@@ -45,4 +45,4 @@ for starting_letter in df_to_match['CompanyName'].str[0].unique():
         df_output.loc[len(df_output)] = [row['CompanyName'], best_ticker, best_score]
 
 # save df_output to csv
-df_output.to_csv('outputs/matched.csv', index=False)
+df_output.to_csv('outputs/names_matched.csv', index=False)
