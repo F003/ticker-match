@@ -4,7 +4,7 @@ from difflib import SequenceMatcher
 def similarity_score(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
-df_to_match = pd.read_csv('data/list_of_companies.cvs', encoding='utf-8')
+df_to_match = pd.read_csv('data/list_of_companies.csv', encoding='utf-8')
 df_db = pd.read_csv('data/db.csv', encoding='utf-8')
 
 # make all company names strings
