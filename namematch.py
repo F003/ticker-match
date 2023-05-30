@@ -4,30 +4,30 @@ from difflib import SequenceMatcher
 def similarity_score(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
-df_testy = pd.read_csv('filipowe-testy.csv', encoding='utf-8')
-df_tickers = pd.read_csv('tickers.csv', encoding='utf-8')
+df_to_match = pd.read_csv('data/list_of_companies.cvs', encoding='utf-8')
+df_db = pd.read_csv('data/db.csv', encoding='utf-8')
 
-# make all company names strings and uppercase
+# make all company names strings
 
-df_testy['CompanyName'] = df_testy['CompanyName'].astype(str)
-df_tickers['CompanyName'] = df_tickers['CompanyName'].astype(str)
+df_to_match['CompanyName'] = df_to_match['CompanyName'].astype(str)
+df_db['CompanyName'] = df_db['CompanyName'].astype(str)
 
-df_list = df_tickers[['CompanyName']]
+df_namesdb = df_db[['CompanyName']]
 
-# delete df_tickers
-df_tickers.drop(df_tickers.index, inplace=True)
+# delete df_db
+df_db.drop(df_db.index, inplace=True)
 
 # Sort the dataframes by company name
-df_testy = df_testy.sort_values('CompanyName')
-df_list = df_list.sort_values('CompanyName')
+df_to_match = df_to_match.sort_values('CompanyName')
+df_namesdb = df_namesdb.sort_values('CompanyName')
 
 # create new pandas dataframe with three collums: name, matching name and similarity score
 df_output = pd.DataFrame(columns=['CompanyName', 'MatchingName', 'SimilarityScore']) 
 
 # Iterate through unique starting letters or numbers in df_testy
-for starting_letter in df_testy['CompanyName'].str[0].unique():
-    testy_subset = df_testy[df_testy['CompanyName'].str.startswith(starting_letter)]
-    list_subset = df_list[df_list['CompanyName'].str.startswith(starting_letter)]
+for starting_letter in df_to_match['CompanyName'].str[0].unique():
+    testy_subset = df_to_match[df_to_match['CompanyName'].str.startswith(starting_letter)]
+    list_subset = df_namesdb[df_namesdb['CompanyName'].str.startswith(starting_letter)]
 
     # iterate through each row in testy_subset
     for index, row in testy_subset.iterrows():
@@ -45,4 +45,4 @@ for starting_letter in df_testy['CompanyName'].str[0].unique():
         df_output.loc[len(df_output)] = [row['CompanyName'], best_ticker, best_score]
 
 # save df_output to csv
-df_output.to_csv('output.csv', index=False)
+df_output.to_csv('outputs/matched.csv', index=False)
