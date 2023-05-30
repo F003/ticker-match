@@ -1,292 +1,689 @@
-﻿CompanyName,Ticker_x,Ticker_y,Currency,Exchange,ExchangeShort,Timezone,Similarity Score
-3m co,,MMM.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-3m co,,MMM.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
-3m co,,MMM.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
-3m co,,MMM.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-abb ltd,,ABB,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-abb ltd,,ABBN.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-abb ltd,,ABJA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-abb ltd,,ABLZF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-abbott laboratories,,ABL.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-abbott laboratories,,ABT,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-abbott laboratories,,ABT.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-abbott laboratories,,ABT.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
-abbott laboratories,,ABL.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
-advantest corp,,VANA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-advantest corp,,VAN.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-adyen nv,,ADYEN.AS,EUR,Euronext Amsterdam,AEX,Europe/Amsterdam,0.0
-adyen nv,,ADYEN.PA,EUR,Euronext Paris,PAR,Europe/Paris,0.0
-aecom,,E6Z.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-aecom,,ACM,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-aes corp,,AES.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-allstate corp,,ALS.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-ameren corporation,,AEE,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-american tower corp,,A0T.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-apa group,,PJZ.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-apa group,,APA.AX,AUD,Australian Securities Exchange,ASX,Australia/Sydney,0.0
-apa group,,APAJF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-aptiv plc,,D7A.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-aptiv plc,,APTV,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-aramark,,0AK.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-aramark,,ARMK,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-asahi kasei corp,,ASAA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-avery dennison corp,,AV3.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-axa,,CSNV.PA,EUR,Euronext Paris,PAR,Europe/Paris,0.0
-azbil corp,,YMK.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-bank of america corp,,BAC.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-bank of america corp,,NCB.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-barrick gold corp,,ABR.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-barrick gold corp,,ABX.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
-barrick gold corp,,ABX.TO,CAD,Toronto Stock Exchange,TSX,America/Toronto,0.0
-barrick gold corp,,ABXN.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-barrick gold corp,,ABR.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
-bio-techne corp,,TE1.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-boeing co,,BA.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-boeing co,,BOE.L,USD,London Stock Exchange,LSE,Europe/London,0.0
-boeing co,,BCO.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-boeing co,,BA.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
-bollore,,BOIVF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-bridgestone corp,,BGT.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-bristol-myers squibb co,,BRM.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
-bristol-myers squibb co,,BRM.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-bristol-myers squibb co,,BMY.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-bureau veritas sa,,BVRDF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-bureau veritas sa,,BVI.PA,EUR,Euronext Paris,PAR,Europe/Paris,0.0
-bureau veritas sa,,4BV.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-camden property trust,,CAL.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-camden property trust,,CPT,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-cameco corp,,CJ6.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-cameco corp,,CCO.TO,CAD,Toronto Stock Exchange,TSX,America/Toronto,0.0
-canon inc,,CNN1.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-canon inc,,CNNA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-canon inc,,CAJN.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-centene corp,,QEN.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-clorox co,,CXX.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-conocophillips,,COP,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-conocophillips,,COP.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-conocophillips,,YCP.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
-conocophillips,,YCP.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-conocophillips,,COP.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
-denso corp,,DNO.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-deutsche boerse,,DB1.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
-deutsche post,,DPW.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
-devon energy corp,,DVN.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-devon energy corp,,DY6.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-dexus,,DXSPF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-dover corp,,DOV.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-duke energy corp,,D2MN.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-edison international,,EIX,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-edison international,,EIX.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-equity residential,,EQR,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-equity residential,,EQR.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-eversource energy,,NWJ.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-eversource energy,,ES,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-fifth third bancorp,,FITBI,USD,NASDAQ Stock Exchange,NASDAQ,America/New_York,0.0
-fifth third bancorp,,FITBP,USD,NASDAQ Stock Exchange,NASDAQ,America/New_York,0.0
-fifth third bancorp,,FITB,USD,NASDAQ Stock Exchange,NASDAQ,America/New_York,0.0
-fifth third bancorp,,FITBO,USD,NASDAQ Stock Exchange,NASDAQ,America/New_York,0.0
-first republic bank,,81R.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-first republic bank,,FRC.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-first republic bank,,FRC,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-fmc corp,,FMQ.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-gecina,,GECFF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-goodman group,,MY4.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-goodman group,,GMG.AX,AUD,Australian Securities Exchange,ASX,Australia/Sydney,0.0
-goodman group,,GMGSF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-gpt group,,46T.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-gpt group,,GPT.AX,AUD,Australian Securities Exchange,ASX,Australia/Sydney,0.0
-gpt group,,GPTGF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-hang seng bank,,HSB.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-hang seng bank,,0011.HK,HKD,Hong Kong Stock Exchange,HKEX,Asia/Hong_Kong,0.0
-heico corp,,HC1.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-horizon therapeutics plc,,HPR.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-hormel foods corp,,HO7.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-hoshizaki corp,,HS0.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-inpex corp,,IPXHF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-inpex corp,,I8U.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-itochu corp,,IOC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-johnson & johnson,,JNJ,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-johnson & johnson,,JNJ.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-johnson & johnson,,JNJ.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
-johnson & johnson,,JNJ.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-jsr corp,,JSCPF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-jsr corp,,JYR.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-kajima corp,,KAJ.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-kajima corp,,KAJMF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-kao corp,,KAO.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-kao corp,,KAOCF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-keio corp,,K22.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-kering,,KER.PA,EUR,Euronext Paris,PAR,Europe/Paris,0.0
-kering,,KER.MI,EUR,Milan Stock Exchange,MIL,Europe/Rome,0.0
-kering,,KERN.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-kering,,PPX.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-keycorp,,KEY.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-keycorp,,KEY,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-kimco realty corp,,KIC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-kose corporation,,4922.T,JPY,Tokyo Stock Exchange,TYO,Asia/Tokyo,0.0
-kraft heinz co,,KHC.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
-kraft heinz co,,KHNZ.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
-kraft heinz co,,KHC.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-kraft heinz co,,KHNZ.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-kroger co,,KOG.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-kubota corp,,KUO1.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-kubota corp,,KUOA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-kyocera corp,,KYR.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-kyocera corp,,KYRA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-lendlease group,,LLESF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-lendlease group,,LLC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-lendlease group,,LLESY,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-lendlease group,,LLC.AX,AUD,Australian Securities Exchange,ASX,Australia/Sydney,0.0
-marubeni corp,,MARA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-masco corp,,MSQ.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-masco corp,,MAS.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-mazda motor corp,,MZA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-mcdonald's corp,,MCD.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-mcdonald's corp,,MCD.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
-mcdonald's corp,,MDO.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-medtronic plc,,MDT,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-medtronic plc,,2M6.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-medtronic plc,,MDTN.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-medtronic plc,,2M6.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
-mirvac group,,MRVGF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-mirvac group,,MJB.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-mirvac group,,MGR.AX,AUD,Australian Securities Exchange,ASX,Australia/Sydney,0.0
-mitsubishi corp,,MBI.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-moncler spa,,MONC.MI,EUR,Milan Stock Exchange,MIL,Europe/Rome,0.0
-moncler spa,,MOV.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-morgan stanley,,DWD.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
-morgan stanley,,MSBR34.SA,BRL,Sao Paolo Stock Exchange,SAO,America/Sao_Paulo,0.0
-morgan stanley,,MS,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-morgan stanley,,MS.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-morgan stanley,,MS.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
-morgan stanley,,DWD.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-national bank of canada,,NBC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-national bank of canada,,NA.TO,CAD,Toronto Stock Exchange,TSX,America/Toronto,0.0
-national bank of canada,,NTIOF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-nec corp,,NEC1.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-nippon steel corp,,NISTF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-nippon steel corp,,NPS.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-ntt data corp,,NT5.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-obayashi corp,,OBYCF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-obayashi corp,,OBA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-oci nv,,OCI.AS,EUR,Euronext Amsterdam,AEX,Europe/Amsterdam,0.0
-oci nv,,OCI.PA,EUR,Euronext Paris,PAR,Europe/Paris,0.0
-oci nv,,OIC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-oji holdings corp,,OJI.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-olympus corp,,OCPNF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-olympus corp,,OLY1.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-omv ag,,OMV.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-omv ag,,OMV.VI,EUR,Vienna Stock Exchange,VSE,Europe/Vienna,0.0
-omv ag,,OMV.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
-omv ag,,OMV.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
-on semiconductor corp,,XS4.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-open text corp,,OTEX.TO,CAD,Toronto Stock Exchange,TSX,America/Toronto,0.0
-open text corp,,OTX.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-owens corning,,O5Q.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-owens corning,,OC,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-partners group holding,,PGHN.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
-partners group holding,,P2H.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-paylocity holding corp,,0P7.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-pentair plc,,PNT.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-pentair plc,,PNR,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-phillips 66,,R66.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-phillips 66,,PSX,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-phoenix group holdings,,PHNX.L,GBX,London Stock Exchange,LSE,Europe/London,0.0
-ppl corp,,PP9.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-procter & gamble co,,PRG.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-procter & gamble co,,PG.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
-procter & gamble co,,PG.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-procter & gamble co,,PRG.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
-progressive corp,,PGV.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-public storage,,PUP.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-public storage,,PSA,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-puma,,PUM.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
-randstad nv,,RANJY,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-randstad nv,,RAND.AS,EUR,Euronext Amsterdam,AEX,Europe/Amsterdam,0.0
-randstad nv,,RAND.PA,EUR,Euronext Paris,PAR,Europe/Paris,0.0
-randstad nv,,RSH.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-randstad nv,,RANJF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-randstad nv,,RANDN.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-realty income corp,,RY6.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-regency centers corp,,RRC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-remy cointreau,,RCO.PA,EUR,Euronext Paris,PAR,Europe/Paris,0.0
-remy cointreau,,RMC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-rockwell automation,,RWL.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-royal bank of canada,,RYN.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-royal bank of canada,,RY.TO,CAD,Toronto Stock Exchange,TSX,America/Toronto,0.0
-royal bank of canada,,RYC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-royal bank of canada,,RY,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-sanofi,,GCVRZ,USD,NASDAQ Stock Exchange,NASDAQ,America/New_York,0.0
-sanofi,,SNY,USD,NASDAQ Stock Exchange,NASDAQ,America/New_York,0.0
-sanofi,,SNYNF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-scentre group,,SCG.AX,AUD,Australian Securities Exchange,ASX,Australia/Sydney,0.0
-scentre group,,STGPF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-schneider electric,,SUNV.PA,EUR,Euronext Paris,PAR,Europe/Paris,0.0
-scsk corp,,QSU.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-sealed air corp,,SDA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-seiko epson corporation,,6724.T,JPY,Tokyo Stock Exchange,TYO,Asia/Tokyo,0.0
-seiko epson corporation,,SEKEF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-seiko epson corporation,,SEKEY,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-seiko epson corporation,,SE7.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-sempra energy,,SE4.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-sempra energy,,SRE,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-sempra energy,,SRE.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-sherwin-williams co,,SHW.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-sherwin-williams co,,SJ3.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-signature bank,,SBNY,USD,NASDAQ Stock Exchange,NASDAQ,America/New_York,0.0
-signature bank,,TQJ.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-smc corp,,QMC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-southwest airlines co,,SWN.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-southwest airlines co,,LUV.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-state street corp,,STT.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-state street corp,,ZYA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-stockland,,STKAF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-subaru corporation,,7270.T,JPY,Tokyo Stock Exchange,TYO,Asia/Tokyo,0.0
-subaru corporation,,FUJHY,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-subaru corporation,,FUJHF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-sumitomo corp,,SUMA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-suzuki motor corp,,SUK.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-svb financial group,,SIVB,USD,NASDAQ Stock Exchange,NASDAQ,America/New_York,0.0
-svb financial group,,SV4.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-synchrony financial,,SYF,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-sysmex corp,,0YX.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-taisei corp,,TKK1.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-taisei corp,,TISCF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-targa resources corp,,TAR.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-tc energy corporation,,TRP,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-tdk corp,,TDK.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-terumo corp,,TUO.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-thomson reuters corp,,TRI.TO,CAD,Toronto Stock Exchange,TSX,America/Toronto,0.0
-tokyu corp,,01T.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-toro co,,TO2.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-toronto-dominion bank,,TD.TO,CAD,Toronto Stock Exchange,TSX,America/Toronto,0.0
-toronto-dominion bank,,TDB.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-toshiba corp,,TSE1.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-tourmaline oil corp,,TOU.TO,CAD,Toronto Stock Exchange,TSX,America/Toronto,0.0
-tourmaline oil corp,,08T.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-toyota motor corp,,TMN.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-toyota motor corp,,TOMA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-toyota motor corp,,TYT.L,JPY,London Stock Exchange,LSE,Europe/London,0.0
-toyota motor corp,,TOM.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-transunion,,1TU.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-transunion,,TRU,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-transurban group,,TCL.AX,AUD,Australian Securities Exchange,ASX,Australia/Sydney,0.0
-transurban group,,TU9.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-transurban group,,TRAUF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-ugi corp,,3U6.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-vicinity centres,,VCX.AX,AUD,Australian Securities Exchange,ASX,Australia/Sydney,0.0
-vicinity centres,,C98.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-wells fargo & co,,WFC.MX,MXN,Mexican Stock Exchange,MEX,America/Mexico_City,0.0
-wells fargo & co,,NWT.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-wells fargo & co,,WFC.SW,CHF,SIX Swiss Exchange,SIX,Europe/Zurich,0.0
-wells fargo & co,,NWT.DE,EUR,Deutsche BÃ¶rse XETRA,GER,Europe/Berlin,0.0
-welltower inc,,HCW.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-wendel,,WNDLF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-westrock company,,WRK,USD,New York Stock Exchange,NYSE,America/New_York,0.0
-weyerhaeuser co,,WHC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-wolters kluwer,,WKL.AS,EUR,Euronext Amsterdam,AEX,Europe/Amsterdam,0.0
-wolters kluwer,,WOLTF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
-wolters kluwer,,WOSB.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-yamaha corp,,YHA.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-yaskawa electric corp,,YEC.F,EUR,Frankfurt Stock Exchange,FRA,Europe/Berlin,0.0
-yaskawa electric corp,,YASKF,USD,OTC Markets Group,OTCMKTS,America/New_York,0.0
+CompanyName,MatchingName,SimilarityScore
+"576    3I GROUP
+174       3M CO
+Name: CompanyName, dtype: object",3 Sixty Risk Solutions Ltd.,80
+"197                 ABB LTD
+41      ABBOTT LABORATORIES
+19                   ABBVIE
+1120          ABN AMRO BANK
+1222                  ABRDN
+               ...         
+697                   AVIVA
+178                     AXA
+704         AXON ENTERPRISE
+1463             AZBIL CORP
+1495          AZRIELI GROUP
+Name: CompanyName, Length: 145, dtype: object",A-Smart Holdings Ltd.,100
+"1437     BACHEM HOLDING B
+366           BAE SYSTEMS
+393       BAKER HUGHES CO
+625             BALL CORP
+1085      BALOISE HOLDING
+              ...        
+733                 BUNGE
+827                 BUNZL
+862        BURBERRY GROUP
+1033    BUREAU VERITAS SA
+736     BURLINGTON STORES
+Name: CompanyName, Length: 84, dtype: object",B & D Strategic Holdings Ltd,91
+"199      CADENCE DESIGN SYSTEMS
+1119                        CAE
+892             CAESARS ENT INC
+583                   CAIXABANK
+873       CAMDEN PROPERTY TRUST
+                 ...           
+158                    CSX CORP
+338                     CUMMINS
+92                   CVS HEALTH
+1401                CYBER AGENT
+1203    CYBERARK SOFTWARE (USD)
+Name: CompanyName, Length: 124, dtype: object",C&G SYSTEMS INC.,95
+"546     DAI ICHI LIFE HOLDINGS
+1190    DAI NIPPON PRINTING CO
+1234                DAIFUKU CO
+192          DAIICHI SANKYO CO
+272          DAIKIN INDUSTRIES
+                 ...          
+345                        DSV
+547                 DTE ENERGY
+142           DUKE ENERGY CORP
+326          DUPONT DE NEMOURS
+984                  DYNATRACE
+Name: CompanyName, Length: 63, dtype: object",DADONGHAI/Shs A Vtg 1.00,88
+"488                      E. ON
+686      EAST JAPAN RAILWAY CO
+920        EASTMAN CHEMICAL CO
+147             EATON CORP PLC
+471                       EBAY
+                ...           
+664              EXPEDIA GROUP
+636    EXPEDITORS INTL OF WASH
+394                   EXPERIAN
+528        EXTRA SPACE STORAGE
+7             EXXON MOBIL CORP
+Name: CompanyName, Length: 77, dtype: object",E*TRADE Financial Corporation,88
+"1014                          F5
+674     FACTSET RESEARCH SYSTEMS
+629              FAIR ISAAC CORP
+670      FAIRFAX FINANCIAL HLDGS
+368                        FANUC
+353            FAST RETAILING CO
+413                  FASTENAL CO
+1461      FASTIGHETS AB BALDER B
+210                   FEDEX CORP
+406                 FERGUSON(US)
+370                 FERRARI (IT)
+750                    FERROVIAL
+322      FIDELITY NATL INFO SVCS
+469          FIFTH THIRD BANCORP
+129        FIN RICHEMONT NAMEN A
+913                   FINECOBANK
+1068    FIRST CITIZENS BANCSHS A
+833       FIRST HORIZON NATIONAL
+1506    FIRST INTL BANK ISRAEL 5
+767       FIRST QUANTUM MINERALS
+513          FIRST REPUBLIC BANK
+587                  FIRST SOLAR
+544             FIRSTENERGY CORP
+1242      FIRSTSERVICE CORP(NEW)
+143                       FISERV
+976       FISHER & PAYKEL HEALTH
+703        FLEETCOR TECHNOLOGIES
+438        FLUTTER ENTERTAINMENT
+659                     FMC CORP
+934                    FNF GROUP
+221                FORD MOTOR CO
+461       FORTESCUE METALS GROUP
+308                     FORTINET
+584                       FORTIS
+511                      FORTIVE
+1147                 FORTUM CORP
+1070        FORTUNE BRANDS INNOV
+454           FRANCO-NEVADA CORP
+1012          FRANKLIN RESOURCES
+172           FREEPORT MCMORAN B
+875                    FRESENIUS
+1072      FRESENIUS MEDICAL CARE
+1286            FUJI ELECTRIC CO
+634        FUJI FILM HOLDINGS CO
+463                      FUJITSU
+1469         FUTU HOLDINGS A ADR
+Name: CompanyName, dtype: object",F&C Commercial Property Trust Ltd,85
+"702     GALAXY ENTERTAINMENT GRP
+297        GALLAGHER (ARTHUR J.)
+1204         GALP ENERGIA SGPS B
+743       GAMING & LEISURE PPTYS
+709                       GARMIN
+452                      GARTNER
+435           GE HEALTHCARE TECH
+1150                   GEA GROUP
+574                      GEBERIT
+1259                      GECINA
+879                  GEN DIGITAL
+1092            GENERAC HOLDINGS
+196        GENERAL DYNAMICS CORP
+107          GENERAL ELECTRIC CO
+232                GENERAL MILLS
+190               GENERAL MOTORS
+473                       GENMAB
+1318           GENTING SINGAPORE
+489             GENUINE PARTS CO
+1303                   GETINGE B
+1096                     GETLINK
+1229    GFL ENVIRONMENTAL HLD SV
+1214           GILDAN ACTIVEWEAR
+99               GILEAD SCIENCES
+431                     GIVAUDAN
+1403       GJENSIDIGE FORSIKRING
+161                     GLENCORE
+404              GLOBAL PAYMENTS
+880                   GLOBE LIFE
+1314                  GLP J REIT
+1425         GMO PAYMENT GATEWAY
+845                    GODADDY A
+80           GOLDMAN SACHS GROUP
+518                GOODMAN GROUP
+1196                   GPT GROUP
+1368             GRAB HOLDINGS A
+855                        GRACO
+398                GRAINGER (WW)
+1081           GREAT-WEST LIFECO
+1390                     GRIFOLS
+1031    GROUPE BRUXELLES LAMBERT
+145                          GSK
+Name: CompanyName, dtype: object",G3 Exploration Ltd,91
+"1483       HAKUHODO DY HOLDINGS
+565                      HALEON
+355              HALLIBURTON CO
+949                       HALMA
+1137    HAMAMATSU PHOTONICS K.K
+                 ...           
+698       HUNT (J.B.) TRANSPORT
+522       HUNTINGTON BANCSHARES
+1018     HUNTINGTON INGALLS IND
+1388                HUSQVARNA B
+1024                  HYDRO ONE
+Name: CompanyName, Length: 68, dtype: object",H & M Hennes & Mauritz AB (publ),98
+"1129           IA FINANCIAL CORP
+144                    IBERDROLA
+1373                   IBIDEN CO
+82                      IBM CORP
+1269                   ICL GROUP
+1305           IDEMITSU KOSAN CO
+633                    IDEX CORP
+306           IDEXX LABORATORIES
+1374               IDP EDUCATION
+1485               IGM FINANCIAL
+1179                         IGO
+1491      IIDA GROUP HOLDINGS CO
+141          ILLINOIS TOOL WORKS
+391                     ILLUMINA
+995                   IMCD GROUP
+533              IMPERIAL BRANDS
+902                 IMPERIAL OIL
+717                  INCYTE CORP
+362                      INDITEX
+1402            INDUSTRIVARDEN A
+1354            INDUSTRIVARDEN C
+1207                   INDUTRADE
+229        INFINEON TECHNOLOGIES
+1394     INFRASTRUTTURE WIRELESS
+198                    ING GROEP
+495               INGERSOLL-RAND
+878                   INPEX CORP
+571                 INSULET CORP
+1077     INSURANCE AUSTRALIA GRP
+460             INTACT FINANCIAL
+96                    INTEL CORP
+187        INTERCONTINENTAL EXCH
+846      INTERCONTINENTAL HOTELS
+808          INTERNATIONAL PAPER
+745     INTERPUBLIC GROUP OF COS
+1051              INTERTEK GROUP
+261              INTESA SANPAOLO
+498     INTL FLAVORS & FRAGRANCE
+94                        INTUIT
+126           INTUITIVE SURGICAL
+1195                 INVESCO LTD
+939                   INVESTOR A
+341                   INVESTOR B
+597             INVITATION HOMES
+1347                       IPSEN
+303               IQVIA HOLDINGS
+689                IRON MOUNTAIN
+1193        ISRAEL DISCOUNT BANK
+1134                ISUZU MOTORS
+332                  ITOCHU CORP
+1502     ITOCHU TECHNO-SOLUTIONS
+1247             IVANHOE MINES A
+Name: CompanyName, dtype: object",I-NET CORP.,93
+"699             JACOBS SOLUTIONS
+1477           JAPAN AIRLINES CO
+1109        JAPAN EXCHANGE GROUP
+1260     JAPAN METROPOLITAN FUND
+1391          JAPAN POST BANK CO
+538       JAPAN POST HOLDINGS CO
+1410     JAPAN POST INSURANCE CO
+1274       JAPAN REAL ESTATE INV
+484                JAPAN TOBACCO
+1501    JARDINE CYCLE & CARRIAGE
+1060      JARDINE MATHESON (USD)
+1000        JAZZ PHARMACEUTICALS
+1231           JD SPORTS FASHION
+1465                   JDE PEETS
+1209       JERONIMO MARTINS SGPS
+1178                JFE HOLDINGS
+681                JM SMUCKER CO
+10             JOHNSON & JOHNSON
+264       JOHNSON CONTROLS (NEW)
+1299             JOHNSON MATTHEY
+9            JPMORGAN CHASE & CO
+1367                    JSR CORP
+735            JULIUS BAER GROUP
+946             JUNIPER NETWORKS
+1375       JUST EAT TAKEAWAY.COM
+Name: CompanyName, dtype: object",J Sainsbury plc,86
+"1272                 KAJIMA CORP
+1161    KANSAI ELECTRIC POWER CO
+622                     KAO CORP
+589                   KBC GROUPE
+228                         KDDI
+1416                   KEIO CORP
+1389     KEISEI ELECTRIC RAILWAY
+640                   KELLOGG CO
+1200                 KEPPEL CORP
+1493    KEPPEL CORP (DETACHED 2)
+250                       KERING
+691                KERRY GROUP A
+1197                     KESKO B
+443             KEURIG DR PEPPER
+623                      KEYCORP
+118                 KEYENCE CORP
+1291                      KEYERA
+430        KEYSIGHT TECHNOLOGIES
+1151               KIKKOMAN CORP
+274          KIMBERLY-CLARK CORP
+792            KIMCO REALTY CORP
+343              KINDER MORGAN P
+1159                  KINGFISHER
+926               KINGSPAN GROUP
+1412                  KINNEVIK B
+1307           KINROSS GOLD CORP
+1261     KINTETSU GROUP HOLDINGS
+815            KIRIN HOLDINGS CO
+386                   KKR & CO A
+195              KLA CORPORATION
+1244                   KLEPIERRE
+1017      KNIGHT-SWIFT TRANSPORT
+1270                KNORR-BREMSE
+1455         KOBAYASHI PHARMA CO
+1371              KOBE BUSSAN CO
+1509      KOEI TECMO HOLDINGS CO
+1411      KOITO MANUFACTURING CO
+508                      KOMATSU
+1359           KONAMI GROUP CORP
+618                       KONE B
+1393           KONGSBERG GRUPPEN
+523              KONINKLIJKE DSM
+871              KONINKLIJKE KPN
+731          KONINKLIJKE PHILIPS
+1397            KOSE CORPORATION
+429               KRAFT HEINZ CO
+414                    KROGER CO
+688                  KUBOTA CORP
+722          KUEHNE & NAGEL INTL
+1311     KURITA WATER INDUSTRIES
+669                 KYOCERA CORP
+1220              KYOWA KIRIN CO
+Name: CompanyName, dtype: object",K &amp; N Kenanga Holdings Berhad,100
+"103                     L'OREAL
+294       L3HARRIS TECHNOLOGIES
+1358      LA FRANCAISE DES JEUX
+542     LABORATORY CORP OF AMER
+151           LAM RESEARCH CORP
+727        LAMB WESTON HOLDINGS
+1216      LAND SECURITIES GROUP
+558        LAS VEGAS SANDS CORP
+822               LASERTEC CORP
+1449        LATOUR INVESTMENT B
+1036                  LEAR CORP
+1252             LEG IMMOBILIEN
+599       LEGAL & GENERAL GROUP
+467                     LEGRAND
+803             LEIDOS HOLDINGS
+1420            LENDLEASE GROUP
+480               LENNAR CORP A
+1054       LENNOX INTERNATIONAL
+922         LIBERTY BROADBAND C
+764       LIBERTY FORMULA ONE C
+1436           LIBERTY GLOBAL A
+1237           LIBERTY GLOBAL C
+1497         LIBERTY SIRIUSXM A
+1265         LIBERTY SIRIUSXM C
+1309                    LIFCO B
+21        LILLY (ELI) & COMPANY
+42                  LINDE (NEW)
+838     LINDT & SPRUENGLI NAMEN
+874      LINDT & SPRUENGLI PART
+642                   LINK REIT
+806           LIVE NATION ENTMT
+1322          LIXIL CORPORATION
+725                    LKQ CORP
+275        LLOYDS BANKING GROUP
+740                      LOBLAW
+88         LOCKHEED MARTIN CORP
+813                  LOEWS CORP
+978                    LOGITECH
+416       LONDON STOCK EXCHANGE
+256                 LONZA GROUP
+79                   LOWE'S COS
+557      LPL FINANCIAL HOLDINGS
+1399              LUCID GROUP A
+1175                  LUFTHANSA
+333         LULULEMON ATHLETICA
+1413        LUNDBERGFORETAGEN B
+1344         LUNDIN MINING CORP
+28           LVMH MOET HENNESSY
+459       LYONDELLBASELL INDS A
+Name: CompanyName, dtype: object",L.K. Technology Holdings Limited,87
+"444             M & T BANK CORP
+1206                        M&G
+915                          M3
+230             MACQUARIE GROUP
+692         MAGNA INTERNATIONAL
+                 ...           
+281                        MSCI
+1064                   MTR CORP
+776            MTU AERO ENGINES
+218     MUENCHENER RUECKVERSICH
+395     MURATA MANUFACTURING CO
+Name: CompanyName, Length: 90, dtype: object",M.P. Evans Group PLC,89
+"578                      NASDAQ
+165     NATIONAL AUSTRALIA BANK
+462     NATIONAL BANK OF CANADA
+251               NATIONAL GRID
+1369       NATURGY ENERGY GROUP
+                 ...           
+285                     NUTRIEN
+1507       NUVEI CORPORATION SV
+3                        NVIDIA
+677                         NVR
+239     NXP SEMICONDUCTORS (US)
+Name: CompanyName, Length: 74, dtype: object","NAKAMURAYA CO.,LTD.",89
+"206         O'REILLY AUTOMOTIVE
+1297              OBAYASHI CORP
+930                     OBIC CO
+1395                OCADO GROUP
+384                   OCBC BANK
+263        OCCIDENTAL PETROLEUM
+1422                     OCI NV
+1419    ODAKYU ELECTRIC RAILWAY
+1438          OJI HOLDINGS CORP
+900                        OKTA
+382        OLD DOMINION FREIGHT
+554                OLYMPUS CORP
+594               OMNICOM GROUP
+933                  OMRON CORP
+1116                     OMV AG
+359       ON SEMICONDUCTOR CORP
+412                       ONEOK
+1383                  ONEX CORP
+1103      ONO PHARMACEUTICAL CO
+1470        OPEN HOUSE GROUP CO
+974              OPEN TEXT CORP
+58                  ORACLE CORP
+1479          ORACLE CORP JAPAN
+506                      ORANGE
+1287                      ORICA
+380            ORIENTAL LAND CO
+967               ORIGIN ENERGY
+1281            ORION-YHTYMAE B
+537                   ORIX CORP
+1282                      ORKLA
+648                      ORSTED
+1192               OSAKA GAS CO
+336              OTIS WORLDWIDE
+1382                OTSUKA CORP
+839          OTSUKA HOLDINGS CO
+881                 OVINTIV(US)
+980               OWENS CORNING
+Name: CompanyName, dtype: object",O'will Corporation,100
+"503                 P G & E CORP
+317                       PACCAR
+786       PACKAGING CORP OF AMER
+784      PALANTIR TECHNOLOGIES A
+186           PALO ALTO NETWORKS
+1444    PAN AMERICAN SILVER CORP
+1140      PAN PACIFIC INTL HLDGS
+577      PANASONIC HOLDINGS CORP
+1021                     PANDORA
+775           PARAMOUNT GLOBAL B
+247         PARKER HANNIFIN CORP
+1451                    PARKLAND
+540       PARTNERS GROUP HOLDING
+1348      PATTINSON (WASHINGTON)
+334                      PAYCHEX
+726              PAYCOM SOFTWARE
+1065      PAYLOCITY HOLDING CORP
+127              PAYPAL HOLDINGS
+1118                     PEARSON
+600             PEMBINA PIPELINE
+986                  PENTAIR PLC
+27                       PEPSICO
+678                  PERKINELMER
+265                PERNOD RICARD
+1292                   PERSIMMON
+1409          PERSOL HOLDINGS CO
+29                        PFIZER
+52            PHILIP MORRIS INTL
+209                  PHILLIPS 66
+1215      PHOENIX GROUP HOLDINGS
+1112            PILBARA MINERALS
+720                  PINTEREST A
+238          PIONEER NATURAL RES
+1097                  PLUG POWER
+166      PNC FINL SERVICES GROUP
+755                    POOL CORP
+1004       PORSCHE AUTOMOBIL VZG
+749               PORSCHE VORZUG
+1227              POSTE ITALIANE
+1090       POWER ASSETS HOLDINGS
+708         POWER CORP OF CANADA
+387               PPG INDUSTRIES
+570                     PPL CORP
+470        PRICE (T. ROWE) GROUP
+516      PRINCIPAL FINANCIAL GRP
+14           PROCTER & GAMBLE CO
+121             PROGRESSIVE CORP
+89                      PROLOGIS
+176                     PROSUS N
+271                   PRUDENTIAL
+325         PRUDENTIAL FINANCIAL
+940                     PRYSMIAN
+746                          PTC
+417       PUBLIC SERVICE ENT GRP
+233               PUBLIC STORAGE
+596              PUBLICIS GROUPE
+814                   PULTEGROUP
+1173                        PUMA
+Name: CompanyName, dtype: object",PAO Zawolzhsky Motorny Zawod,100
+"1370         QANTAS AIRWAYS
+687     QBE INSURANCE GROUP
+918                  QIAGEN
+929                   QORVO
+61                 QUALCOMM
+507         QUANTA SERVICES
+1392             QUEBECOR B
+671       QUEST DIAGNOSTICS
+Name: CompanyName, dtype: object",Q P Group Holdings Limited,73
+"1339               RAKUTEN GROUP
+1041          RAMSAY HEALTH CARE
+1093                 RANDSTAD NV
+1434                    RATIONAL
+548      RAYMOND JAMES FINANCIAL
+57         RAYTHEON TECHNOLOGIES
+1345                   REA GROUP
+295           REALTY INCOME CORP
+211      RECKITT BENCKISER GROUP
+1340                   RECORDATI
+305          RECRUIT HOLDINGS CO
+1155          RED ELECTRICA CORP
+1489                       REECE
+954         REGENCY CENTERS CORP
+123     REGENERON PHARMACEUTICAL
+530      REGIONS FINANCIAL (NEW)
+707        RELIANCE STEEL & ALUM
+181                    RELX (GB)
+1361              REMY COINTREAU
+1020                     RENAULT
+696     RENESAS ELECTRONICS CORP
+683             RENTOKIL INITIAL
+970                REPLIGEN CORP
+515                       REPSOL
+428            REPUBLIC SERVICES
+385                       RESMED
+848              RESONA HOLDINGS
+595        RESTAURANT BRANDS INT
+868                  RHEINMETALL
+1350                    RICOH CO
+407           RIO TINTO LTD (AU)
+124           RIO TINTO PLC (GB)
+1496                 RIOCAN REIT
+1156     RITCHIE BROS AUCTIONEER
+1278         RIVIAN AUTOMOTIVE A
+1010            ROBERT HALF INTL
+765                ROBLOX CORP A
+34          ROCHE HOLDING GENUSS
+1042       ROCHE HOLDING INHABER
+364          ROCKWELL AUTOMATION
+1505                  ROCKWOOL B
+632      ROGERS COMMUNICATIONS B
+1145                     ROHM CO
+1076                      ROKU A
+1082                     ROLLINS
+705            ROLLS-ROYCE GROUP
+252           ROPER TECHNOLOGIES
+314                  ROSS STORES
+62          ROYAL BANK OF CANADA
+650        ROYAL CARIBBEAN GROUP
+801             ROYALTY PHARMA A
+865                     RPM INTL
+439                    RWE STAMM
+Name: CompanyName, dtype: object","R-Three Technologies, Inc.",84
+"85               S&P GLOBAL
+220                  SAFRAN
+1323                SAGAX B
+979        SAGE GROUP (THE)
+1226          SAINSBURY (J)
+               ...         
+756                 SYMRISE
+658     SYNCHRONY FINANCIAL
+189                SYNOPSYS
+318              SYSCO CORP
+945             SYSMEX CORP
+Name: CompanyName, Length: 154, dtype: object",S&P BSE SmallCap,100
+"1058                T&D HOLDINGS
+114                  T-MOBILE US
+1202                 TAISEI CORP
+607     TAKE-TWO INTERACTIVE SOF
+241        TAKEDA PHARMACEUTICAL
+                  ...           
+170        TRUIST FINANCIAL CORP
+1052                        TRYG
+866                     TWILIO A
+768           TYLER TECHNOLOGIES
+624                TYSON FOODS A
+Name: CompanyName, Length: 82, dtype: object",TAG Oil Ltd,86
+"1295           U-HAUL HOLDING NV
+215            UBER TECHNOLOGIES
+138                    UBS GROUP
+898                 UCB (GROUPE)
+758                          UDR
+1073                    UGI CORP
+446                  ULTA BEAUTY
+1127                     UMICORE
+710               UNI-CHARM CORP
+1111          UNIBAIL-RODAMCO-WE
+312                    UNICREDIT
+72             UNILEVER PLC (GB)
+69            UNION PACIFIC CORP
+1504             UNITED INTERNET
+447         UNITED OVERSEAS BANK
+1492        UNITED OVERSEAS LAND
+63       UNITED PARCEL SERVICE B
+376               UNITED RENTALS
+883     UNITED THERAPEUTICS CORP
+1048      UNITED UTILITIES GROUP
+8             UNITEDHEALTH GROUP
+1106              UNITY SOFTWARE
+1029     UNIVERSAL HEALTH SVCS B
+619        UNIVERSAL MUSIC GROUP
+561                  UPM-KYMMENE
+152                   US BANCORP
+1433                      USS CO
+Name: CompanyName, dtype: object",U Banquet Group Holding Ltd,76
+"961               VAIL RESORTS
+1334                     VALEO
+194         VALERO ENERGY CORP
+1045                 VAT GROUP
+499            VEEVA SYSTEMS A
+581                     VENTAS
+1408              VENTURE CORP
+568       VEOLIA ENVIRONNEMENT
+1221                 VERBUND A
+591                   VERISIGN
+432         VERISK ANALYTICS A
+46      VERIZON COMMUNICATIONS
+135     VERTEX PHARMACEUTICALS
+403        VESTAS WIND SYSTEMS
+1040                   VF CORP
+752                    VIATRIS
+375            VICI PROPERTIES
+1250          VICINITY CENTRES
+171                      VINCI
+13                      VISA A
+1071             VISTRA ENERGY
+1089                   VIVENDI
+497                   VMWARE A
+388             VODAFONE GROUP
+1341               VOESTALPINE
+1257          VOLKSWAGEN STAMM
+458          VOLKSWAGEN VORZUG
+1355                   VOLVO A
+400                    VOLVO B
+1475               VOLVO CAR B
+627                    VONOVIA
+491        VULCAN MATERIALS CO
+Name: CompanyName, dtype: object",V.F. Corporation,95
+"610                  WABTEC CORP
+450     WALGREENS BOOTS ALLIANCE
+33                       WALMART
+1294          WAREHOUSES DE PAUW
+347        WARNER BROS DISCOVERY
+1312                  WARTSILA B
+352            WASTE CONNECTIONS
+173             WASTE MANAGEMENT
+601                  WATERS CORP
+988       WEBSTER FINANCIAL CORP
+436             WEC ENERGY GROUP
+1508          WELCIA HOLDINGS CO
+40              WELLS FARGO & CO
+350                WELLTOWER INC
+1460                      WENDEL
+323                   WESFARMERS
+1337          WEST FRASER TIMBER
+1032       WEST JAPAN RAILWAY CO
+493     WEST PHARMACEUTICAL SVCS
+823              WESTERN DIGITAL
+1316        WESTLAKE CORPORATION
+993              WESTON (GEORGE)
+201              WESTPAC BANKING
+1047            WESTROCK COMPANY
+502              WEYERHAEUSER CO
+1276                    WH GROUP
+977        WHARF REAL ESTATE INV
+586      WHEATON PRECIOUS METALS
+1098              WHIRLPOOL CORP
+1102                   WHITBREAD
+328                 WILLIAMS COS
+465         WILLIS TOWERS WATSON
+1223        WILMAR INTERNATIONAL
+1187             WISETECH GLOBAL
+1280                     WIX.COM
+971                    WOLFSPEED
+401               WOLTERS KLUWER
+227        WOODSIDE ENERGY GROUP
+402             WOOLWORTHS GROUP
+324                    WORKDAY A
+937                    WORLDLINE
+641                     WP CAREY
+771                          WPP
+680                   WSP GLOBAL
+825                 WYNN RESORTS
+Name: CompanyName, dtype: object",W. R. Berkley Corporation,86
+"348                XCEL ENERGY
+1130                 XERO (AU)
+1417    XINYI GLASS HOLDING CO
+608                      XYLEM
+Name: CompanyName, dtype: object",X ISHARES A STA,62
+"1006          YAKULT HONSHA CO
+1251               YAMAHA CORP
+1080           YAMAHA MOTOR CO
+1301        YAMATO HOLDINGS CO
+1067        YARA INTERNATIONAL
+951      YASKAWA ELECTRIC CORP
+1421    YOKOGAWA ELECTRIC CORP
+335                 YUM BRANDS
+Name: CompanyName, dtype: object",Y. T. Realty Group Limited,86
+"1114           Z HOLDINGS CORP
+997                    ZALANDO
+676       ZEBRA TECHNOLOGIES A
+1165            ZILLOW GROUP C
+455     ZIMMER BIOMET HOLDINGS
+130                   ZOETIS A
+684          ZOOM VIDEO COMM A
+1171           ZOOMINFO TECH A
+1472                      ZOZO
+884                    ZSCALER
+140     ZURICH INSURANCE GROUP
+Name: CompanyName, dtype: object",Z C L COMPOSITES ORD,67
