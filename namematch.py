@@ -1,10 +1,11 @@
 import pandas as pd
 from difflib import SequenceMatcher
+import tkinter as tk
 
 def similarity_score(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
-def run():
+def run(message_text):
     df_to_match = pd.read_csv('data/list_of_companies.csv', encoding='utf-8')
     df_db = pd.read_csv('data/db.csv', encoding='utf-8')
 
@@ -23,7 +24,7 @@ def run():
 
     # create new pandas dataframe with three columns: name, matching name, and similarity score
     df_output = pd.DataFrame(columns=['CompanyName', 'MatchingName', 'SimilarityScore'])
-
+    
     # Iterate through unique starting letters or numbers in df_to_match
     for starting_letter in df_to_match['CompanyName'].str[0].unique():
         to_match_subset = df_to_match[df_to_match['CompanyName'].str.startswith(starting_letter)]
@@ -39,9 +40,12 @@ def run():
                 if score > best_score:
                     best_score = score
                     best_matching_name = row2['CompanyName']
+            
             # print checked company name
-            print(row['CompanyName'])
-            # save company name, best matching name, and similarity score to new row in df_output
+            message_text.insert(tk.END, "Searching for matches")
+            message_text.see(tk.END)
+            
+         # save company name, best matching name, and similarity score to new row in df_output
             df_output.loc[len(df_output)] = [row['CompanyName'], best_matching_name, best_score]
 
     # save df_output to csv

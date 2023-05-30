@@ -1,6 +1,7 @@
 import pandas as pd
+import tkinter as tk
 
-def run():
+def run(message_text):
     df_to_match = pd.read_csv('outputs/names_matched.csv', encoding='utf-8')
     df_db = pd.read_csv('data/db.csv', encoding='utf-8')
 
@@ -13,6 +14,8 @@ def run():
     # create new dataframe with CompanyName and Ticker columns from df_db
     df_tickersdb = df_db[['CompanyName', 'Ticker']]
 
+    message_text.insert(tk.END, "Merging names with tickers...\n")
+    message_text.see(tk.END)
     df_merged = pd.merge(df_to_match, df_tickersdb, left_on='MatchingName', right_on='CompanyName', how='left')
     df_merged.rename(columns={'Ticker': 'Ticker'}, inplace=True)
 

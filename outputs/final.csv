@@ -1,0 +1,28 @@
+CompanyName,MatchingName,Ticker,SimilarityScore
+Alior Bank,Alinma Bank,1150.SR,0.7619047619047619
+Allegro,Ailleron SA,ALL.WA,0.6666666666666666
+Bank Pekao,Bank Pekao SA,BP1.F,0.8695652173913043
+Bank Pekao,Bank Pekao SA,PEO.WA,0.8695652173913043
+CCC,CAC 40,^PX1,0.4444444444444444
+CD Projekt,CD Projekt SA,CDR.WA,0.8695652173913043
+Cyfrowy Polsat,Cyfrowy Polsat SA,CPS.WA,0.9032258064516128
+Dino,Deinove SA,5D8.F,0.5714285714285714
+Dino,Deinove SA,ALDEI.PA,0.5714285714285714
+Grupa Lotos,Grupa Lotos SA,G17.F,0.88
+Grupa Lotos,Grupa Lotos SA,LTS.WA,0.88
+Jastrzębska Spółka Węglowa,Jastrzebska Spolka Weglowa SA,J2S.F,0.8
+Jastrzębska Spółka Węglowa,Jastrzebska Spolka Weglowa SA,JSW.WA,0.8
+KGHM Polska Miedź,KGHM Polska Miedz SA,KGHA.F,0.8648648648648649
+KGHM Polska Miedź,KGHM Polska Miedz SA,KGH.WA,0.8648648648648649
+LPP,LPP SA,LPP.WA,0.6666666666666666
+Mercator Medical,Mercator Ltd,MERCATOR.NS,0.7142857142857143
+Orange Polska,Orange Polska SA,TPA1.F,0.896551724137931
+Orange Polska,Orange Polska SA,OPL.WA,0.896551724137931
+Orange Polska,Orange Polska SA,PTTWF,0.896551724137931
+PGE Polska Grupa Energetyczna,PGE Polska Grupa Energetyczna SA,6PG.F,0.9508196721311476
+PGE Polska Grupa Energetyczna,PGE Polska Grupa Energetyczna SA,PGE.WA,0.9508196721311476
+PGNiG,PGNiG SA,7GG.F,0.7692307692307693
+PKN Orlen,PEN Inc.,PENC,0.4705882352941176
+PKO BP,PGO SA,PGO.WA,0.5
+PZU,PUMA,PUM.SW,0.5714285714285714
+Santander Bank Polska,Santander Bank Polska SA,BZI.F,0.9333333333333332
