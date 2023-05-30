@@ -1,6 +1,7 @@
 import os.path
 import tkinter as tk
 from tkinter import filedialog
+from message_handler import display_message
 
 import namematch
 import tickermatch
@@ -10,10 +11,6 @@ def browse_files():
     if file_path:
         file_entry.delete(0, tk.END)
         file_entry.insert(tk.END, file_path)
-
-def display_message(message):
-    message_text.insert(tk.END, message + "\n")
-    message_text.see(tk.END)
 
 def change_db_file():
     db_file_path = filedialog.askopenfilename(filetypes=[("CSV Files", "*.csv")])
@@ -27,11 +24,11 @@ def run_program():
 
     if os.path.isfile(list_of_companies_path) and os.path.isfile(db_path):
         display_message("Running name matching...")
-        namematch.run(message_text)
+        namematch.run()
         display_message("Names matched successfully. You can check it in outputs/names_matched.csv file.")
 
         display_message("Running ticker matching...")
-        tickermatch.run(message_text)
+        tickermatch.run()
         display_message("Tickers matched successfully.\n You can open outputs/final.csv file.\n Thank you for using ticker-match and have a nice day! \n Program ends its work.")
     else:
         display_message("Error: data/list_of_companies.csv or data/db.csv not found. Check README.md for more information.")

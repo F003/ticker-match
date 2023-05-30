@@ -1,6 +1,7 @@
 import pandas as pd
 from difflib import SequenceMatcher
 import tkinter as tk
+from message_handler import display_message
 
 def similarity_score(a, b):
     return SequenceMatcher(None, a, b).ratio()
@@ -42,8 +43,7 @@ def run(message_text):
                     best_matching_name = row2['CompanyName']
             
             # print checked company name
-            message_text.insert(tk.END, "Searching for matches")
-            message_text.see(tk.END)
+            display_message("Searching for matches for " + row['CompanyName'] + "...\n")
             
          # save company name, best matching name, and similarity score to new row in df_output
             df_output.loc[len(df_output)] = [row['CompanyName'], best_matching_name, best_score]
